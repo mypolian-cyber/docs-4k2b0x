@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sec2sl.indocuansite.online/sitemap.xml
